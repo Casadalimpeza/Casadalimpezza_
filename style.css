@@ -1,0 +1,40 @@
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background: #fff;
+}
+header {
+  background: #ff6a00;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+main {
+  padding: 20px;
+}
+.produto {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  text-align: center;
+}
+.produto img {
+  width: 100%;
+  max-width: 240px;
+  height: auto;
+  display: block;
+  margin: 0 auto 10px;
+  border-radius: 6px;
+}
+.preco {
+  font-weight: bold;
+  color: #333;
+}
+footer {
+  background: #f1f1f1;
+  text-align: center;
+  padding: 16px;
+  font-size: 14px;
+}
